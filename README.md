@@ -1,3 +1,10 @@
+<h1 align="center"> A big Hello from Shikshah<img src="https://emojis.slackmojis.com/emojis/images/1577305505/7373/hand_wave.gif?1577305505" width="50" /> </h1>    
+
+<div id="header" align="center">   
+
+  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+
 # 💫 About Me:
 👋 Hi, I’m a 20-years old ambitious learner, passionate about technology and innovation.<br>🔭 I’m currently working on Skin Disease Detection using ML<br>🤝 I’m looking to collaborate on projects that enhance practical and real-world knowledge<br>🤗 I’m looking for help with gaining more hands-on experience and advanced techniques<br>🌱 I’m currently learning Backend Development<br>💬 Connect with me on LinkedIn<br>
 
@@ -15,13 +22,13 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shikshahdas&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Shikshahdas&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Shikshahdas&icon=0&color=0)](https://visitcount.itsvg.in)
+
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
