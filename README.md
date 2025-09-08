@@ -1,4 +1,4 @@
-<h1 align="center"> A big Hello from Shikshah👋 </h1>    
+<h1 align="center"> A big Hello from Shikshah Das👋 </h1>    
 
 <div id="header" align="center">   
 
